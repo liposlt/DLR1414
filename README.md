@@ -10,6 +10,7 @@ DLR1414 location distribution
 Pin map  
 32-17  
 1-16  
+
 | Pin   | Fuction | Pin    | Fuction |
 |-------| ------- | -------| --------|
 |1      |A1       |32      |GND      |
